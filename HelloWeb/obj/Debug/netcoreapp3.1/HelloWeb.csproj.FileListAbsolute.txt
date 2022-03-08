@@ -108,3 +108,5 @@ C:\repository\Web\HelloWeb\HelloWeb\HelloWeb\bin\Debug\netcoreapp3.1\zh-Hans\Mic
 C:\repository\Web\HelloWeb\HelloWeb\HelloWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\repository\Web\HelloWeb\HelloWeb\HelloWeb\obj\Debug\netcoreapp3.1\HelloWeb.csproj.CoreCompileInputs.cache
 C:\repository\Web\HelloWeb\HelloWeb\HelloWeb\obj\Debug\netcoreapp3.1\HelloWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\repository\Web\HelloWeb\HelloWeb\HelloWeb\obj\Debug\netcoreapp3.1\Razor\Views\HelloWeb\Index.cshtml.g.cs
+C:\repository\Web\HelloWeb\HelloWeb\HelloWeb\obj\Debug\netcoreapp3.1\Razor\Views\HelloWeb\Welcome.cshtml.g.cs
